@@ -1,14 +1,11 @@
-# EmptyProject
-An empty project for CSPB2270 final projects
+# Security Notifications Using Stacks
+A notifications system using stacks.
 
 
 <hr>
 
 ### What is the purpose of this project?
-The purpose of the project is to give you a chance to find a new (to you) data structure and do something interesting with it. 
-There are several ways to go about doing this. You might begin to solve some problem and use that to guide a decision on which data structure is (in your view) the most appropriate. Another way to do it is to find an interesting data structure that you'd like to explore more and invent a use for it. Either way is OK. 
-
-You must find a data structure for your project which is *different than the ones we have used in programming assignments*. There are many different extensions for the data structures covered in the course as well as many different data structures that we have not investigated in the course.
+The purpose of this project is to create a notifications system using stacks that allows a user to insert, remove, get the size of, and print the message queue beginning with the most recent. This would be the center of a security system that is designed to give the latest messages in case of a DDOS attack but will also store previous messages and give more context to the user as they retrieve more messages from the queue. 
 
 ### How much time will it take?
 You should plan to allocate about 30 hours between now and the end of the semester to building your project around the data structure that you have selected.
